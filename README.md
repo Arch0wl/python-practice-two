@@ -1,4 +1,4 @@
-# cqREnqHw
+# python-practice-two
 
 ## About Scrimba
 
