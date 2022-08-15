@@ -1,7 +1,9 @@
-msg="""Dear Terry,,
-You must cut down the mightiest 
-tree in the forest with…
-a herring! <3"""
+msg="Welcome to Python 101: Strings"
 print(msg)
 
 
+# find and replace 
+
+print(msg.find('Python'))
+
+print(msg.replace('Python', 'JavaScript'))
