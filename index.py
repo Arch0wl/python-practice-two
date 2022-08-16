@@ -18,5 +18,9 @@ msg3 = f'[{name.capitalize()}] loves the color {color.lower()}!'
 print(msg2)
 print(msg3)
 
-
-print("User Input")
+name='Vally'
+color = 'RED'
+msg2 = '[' + name + '] loves the color ' + color.lower() + '!'
+msg3 = f'[{name.capitalize()}] loves the color {color.lower()}!'
+print(msg2)
+print(msg3) 
