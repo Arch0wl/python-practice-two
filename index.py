@@ -13,7 +13,10 @@ print('Python' in msg)
 
 name='TERRY'
 color = 'RED'
-msg2 = '[' + name + '] loves the color ' + color + '!'
-msg3 = f'[{name}] loves the color {color.lower()}!'
+msg2 = '[' + name + '] loves the color ' + color.lower() + '!'
+msg3 = f'[{name.capitalize()}] loves the color {color.lower()}!'
 print(msg2)
 print(msg3)
+
+
+print("User Input")
